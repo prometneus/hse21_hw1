@@ -26,7 +26,7 @@
 
 ![image](https://user-images.githubusercontent.com/86663451/138982246-6542b8bc-feab-4545-a011-76c090bd8269.png)
 
-Анализ полученных результатов:
+# Анализ полученных результатов:
 
 [Код](src/Hometask1_bioinformatics.ipynb)
 
