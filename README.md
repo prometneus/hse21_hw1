@@ -56,6 +56,6 @@
 
 ![image](https://user-images.githubusercontent.com/86663451/139127085-ac51edd4-a78f-450f-89cf-856aa06be02c.png)
 
-Однако platanus gap_close справился хуже с устранением пропусков: и количество, и длина гэпов почти в 2 раза больше:
+Однако platanus gap_close справился хуже с устранением пропусков: и количество, и длина гэпов более чем в 2 раза больше:
 
 ![image](https://user-images.githubusercontent.com/86663451/139127251-f89c6691-d375-480c-8fe9-ff12adfe5a06.png)
