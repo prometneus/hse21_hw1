@@ -4,7 +4,7 @@
 
 [Список](src/server_commands.sh) команд, выполненных на сервере:
 
-![image](https://user-images.githubusercontent.com/86663451/138978463-fca15aef-eb41-4850-861c-a8c4b398b5d1.png)
+![image](https://user-images.githubusercontent.com/86663451/139105632-67bcd588-2c71-4bce-aa88-72b978d00574.png)
 
 # Отчёты MultiQC:
 
