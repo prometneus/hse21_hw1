@@ -42,4 +42,4 @@
 
 Анализ самого длинного скаффолда после удаления пропусков:
 
-![image](https://user-images.githubusercontent.com/86663451/138983348-860f9a42-6b3d-4787-9a09-c1e0988b9b63.png)
+![image](https://user-images.githubusercontent.com/86663451/138983982-54a4c3b3-d169-41c3-8bb6-01af28428685.png)
