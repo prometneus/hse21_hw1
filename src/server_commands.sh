@@ -19,6 +19,8 @@ multiqc -o multiqc *.trimmed
 
 rm mp*.fastq sub*.fastq
 
+platanus assemble -f *.trimmed *.int_trimmed
+
 platanus scaffold -c out_contig.fa -IP1 trimmed/*.trimmed -OP2 *.int_trimmed
 
 platanus gap_close -c out_scaffold.fa -IP1 trimmed/*.trimmed -OP2 *.int_trimmed
