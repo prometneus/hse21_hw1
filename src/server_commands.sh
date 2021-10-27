@@ -9,9 +9,7 @@ fastqc -o fastqc sub*.fastq mp*.fastq
 multiqc -o multiqc fastqc
 
 platanus_trim sub*.fastq
-platanus_trim mp*.fastq
 
-platanus_internal_trim sub*.fastq
 platanus_internal_trim mp*.fastq
 
 fastqc *.trimmed
