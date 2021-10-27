@@ -18,10 +18,13 @@
 ![image](https://user-images.githubusercontent.com/86663451/138982246-6542b8bc-feab-4545-a011-76c090bd8269.png)
 
 Анализ полученных результатов:
+
 [Код](src/Hometask1_bioinformatics.ipynb)
+
 Ссылка на colab: https://colab.research.google.com/drive/1V3Dd2KxFLFALSGJNnkYzkljB869t9gV1?usp=sharing
 
 Анализ собранных контигов:
+
 ![image](https://user-images.githubusercontent.com/86663451/138983275-5f5d09fe-961c-458d-97ec-cb458c633a4d.png)
 
 Анализ скаффолдов:
